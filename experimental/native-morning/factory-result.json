@@ -1,0 +1,26 @@
+{
+  "entry": "Morning SDK app factory",
+  "node_count": 21,
+  "labels": [
+    "Утренняя сводка",
+    "Время сна",
+    "—",
+    "Бодр.",
+    "БДГ",
+    "Лёгк.",
+    "Глуб.",
+    "Пульс, уд/мин",
+    "—",
+    "Замеров: 0",
+    "SpO₂",
+    "—",
+    "Замеров: 0",
+    "Минимум SpO₂: нет данных",
+    "Нет синхронизированной ночи"
+  ],
+  "display_flushes": 1,
+  "sha256_elf": "90fedd21a41557e5d1737975b77bbb955be1ef2fcc8f71e6b122c3ffa89a84a4",
+  "stock_main_sha256": "3c579693ceba6faff72598ebb4b828b3d54562411794293d2cb9f60693e6cdf0",
+  "bluetooth_accesses": false,
+  "actual_sensor_data": false
+}
